@@ -38,9 +38,7 @@ const Index = () => {
               <Badge className="bg-secondary/10 text-secondary hover:bg-secondary/20">
                 Здоровье превыше всего
               </Badge>
-              <h1 className="text-5xl font-bold text-primary leading-tight">
-                Инновационные решения для лучшего здоровья
-              </h1>
+              <h1 className="text-5xl font-bold text-primary leading-tight">Поставка лекарственных препаратов в лечебные учреждения.</h1>
               <p className="text-lg text-muted-foreground">
                 Мы создаём качественные фармацевтические препараты, которые помогают миллионам людей жить здоровой и полноценной жизнью.
               </p>
