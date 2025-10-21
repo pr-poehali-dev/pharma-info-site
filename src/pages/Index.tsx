@@ -39,9 +39,7 @@ const Index = () => {
                 Здоровье превыше всего
               </Badge>
               <h1 className="text-5xl font-bold text-primary leading-tight">Поставка лекарственных препаратов в лечебные учреждения.</h1>
-              <p className="text-lg text-muted-foreground">
-                Мы создаём качественные фармацевтические препараты, которые помогают миллионам людей жить здоровой и полноценной жизнью.
-              </p>
+              <p className="text-lg text-muted-foreground">Предлагаем разнообразные лекарственные препараты и медицинские изделия.</p>
               <div className="flex gap-4">
                 <Button size="lg" className="bg-secondary hover:bg-secondary/90">
                   <Icon name="Pill" className="mr-2" size={20} />
